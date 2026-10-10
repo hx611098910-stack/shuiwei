@@ -1,1 +1,10 @@
-{"dataAsOf":"2026-10-10T12:37:44.000Z","days":27,"docDates":27,"waterDates":5,"dashDates":2,"grokDates":2}
+{
+  "dataAsOf": "2026-10-10T12:37:44.000Z",
+  "days": 27,
+  "docDates": 27,
+  "waterDates": 5,
+  "dashDates": 2,
+  "grokDates": 2,
+  "settleNote": "2026-10-10T20:38+08 Jack正式结算已接入",
+  "forceBump": "20261010-2038"
+}
